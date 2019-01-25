@@ -1,0 +1,10 @@
+{
+  "pass": {
+    "message": "验证通过",
+    "ErrorCode": "200"
+  },
+  "no_pass": {
+    "message": "用户名或密码错误",
+    "ErrorCode": "201"
+  }
+}
